@@ -1,0 +1,15 @@
+    1  n
+    2  nls
+    3  ls
+    4  cd home/
+    5  ls
+    6  cd README.md 
+    7  ls
+    8  cd README.md 
+    9* 
+   10  ls
+   11   cd /root/server_lesson
+   12  ls
+   13  vi README.md 
+   14  ls
+   15  history 300 > exec_command.log
